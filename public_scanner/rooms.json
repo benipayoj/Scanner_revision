@@ -1,0 +1,22 @@
+[
+    {
+        "id": "4",
+        "room_floor": "1st floor",
+        "room_name": "scanner"
+    },
+    {
+        "id": "5",
+        "room_floor": "3rd floor",
+        "room_name": "ac402"
+    },
+     {
+        "id": "6",
+        "room_floor": "3rd floor",
+        "room_name": "ac403"
+    },
+    {
+        "id": "7",
+        "room_floor": "3rd floor",
+        "room_name": "ac404"
+    }
+]
